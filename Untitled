@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+   <head>
+      <title>Hello World!</title>
+   </head>
+   <body>
+      <h1>Hello World!</h1>
+      <main>
+        <section id="about">
+        </section>
+        <section id="work">
+        </section>
+        <footer id="contact">
+        </footer>
+      </main>
+   </body>
+</html>
